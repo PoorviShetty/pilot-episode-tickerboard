@@ -1,0 +1,17 @@
+.App {
+  background-color: #212529;
+  min-height: 100vh;
+}
+
+.depart-head{
+  color:#D2D279 !important;
+  letter-spacing: 7px;
+}
+
+.logo{
+  width: 70px;
+}
+
+.board-logo{
+    width: 60px;
+}
